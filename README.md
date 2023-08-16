@@ -1,2 +1,2 @@
 # formExercise
-These is just exercises
+These are just exercises
